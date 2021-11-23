@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class LongestCommonPrefix {
   public static void main(String args[]){
     String[] strs1 = {"flower", "flow", "flight"};
