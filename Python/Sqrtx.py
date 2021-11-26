@@ -9,7 +9,7 @@ def mySqrt(x: int) -> int:
   """
   i = 0
   while i <= x:
-    if x > i * i and x < (i + 1) * (i + 1) or x == i * i:
+    if x >= i * i and x < (i + 1) * (i + 1):
       return i
     i += 1
   return -1
