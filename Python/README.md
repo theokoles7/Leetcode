@@ -6,3 +6,4 @@
 |Is Palindrome        |100         |13.5      |
 |Roman to Integer     |59          |13.6      |
 |Length of Last Word  |32          |14.5      |
+|SqrtX                |8088        |14.1      |
