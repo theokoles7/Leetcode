@@ -1,4 +1,4 @@
-*Java Solutions for LeetCode
+# Java Solutions for LeetCode
 
 |Algorithm                   |Time(ms)        |Memory(MB)   |
 |----------------------------|----------------|-------------|
