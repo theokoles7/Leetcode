@@ -8,3 +8,5 @@
 |Longest Common Prefix       |2               |38.6         |
 |Remove Duplicates from Array|2               |44.7         |
 |Length of Last Word         |1               |39.3         |
+|Valid Parentheses           |3               |42.5         |
+|Merge Two Sorted Lists      |1               |43           |
