@@ -10,3 +10,4 @@
 |Length of Last Word         |1               |39.3         |
 |Valid Parentheses           |3               |42.5         |
 |Merge Two Sorted Lists      |1               |43           |
+|Remove Element              |1               |41.8         |
